@@ -8,7 +8,7 @@ Fullstack Software Developer
 I am a dedicated full-stack software developer with a passion for crafting seamless web applications. With expertise in both front-end technologies like React and back-end frameworks such as Laravel and Node.js, I excel at transforming innovative ideas into dynamic, user-friendly experiences. My proficiency in database management, API integration, and deployment ensures that I can deliver robust solutions from concept to launch. I thrive on solving complex problems and continuously improving code quality.
 
 *   🌍  I reside in Ethiopia
-*   ✉️  Fill free to reach out to me at [solomonyalew664@gmail.com](mailto:solomonyalew664@gmailcom)
+*   ✉️  Feel free to reach out to me at [solomonyalew664@gmail.com](mailto:solomonyalew664@gmailcom)
 *   🤝  I'm open to collaborating on MERN  projects
 *   ⚡  I write wonderfull code.
   
