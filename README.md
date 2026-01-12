@@ -6,9 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer from **Ethiopia** 🇪🇹 with expertise in building scalable web applications. I specialize in transforming complex problems into elegant, user-centric solutions using modern technologies. My approach combines technical precision with creative problem-solving.
+I'm a full-stack developer from **Ethiopia** 🇪🇹 with expertise in building scalable web applications. I specialize in transforming complex problems into elegant, user-centric solutions using modern technologies. My approach combines technical precision with creative problem-solving.
 
-> *"I don't just write code – I architect experiences."*
 
 ---
 
