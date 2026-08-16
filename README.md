@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=solomonyalew&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=solomon-winner&color=6C63FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-yalew-86b03a257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://solomon-core.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:solomonyalew664@gmail.com)
