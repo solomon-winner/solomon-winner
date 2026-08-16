@@ -38,8 +38,7 @@ I'm a curious builder who enjoys turning complex, messy ideas into clean, workin
 
 **🏢 Enterprise & Architecture**
 - Modular **microservices ERP** platform serving 1,000+ employees across multiple organizations
-- Built with **Next.js · NestJS · gRPC**
-- all ERP Modules 
+- participate in all ERP Modules 
 - Role-based access control (RBAC) with a strong focus on security & reliability
 - End-to-end ownership — architecture, tech selection, implementation
 
